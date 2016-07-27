@@ -1,0 +1,6 @@
+what happen when you initialize a repository?why do you need to do it?
+
+when you init a repo, there will be a folder called .git
+this folde is hidden. but you can find it out by run ls -a command in bash. this isn't mean you have any commit yet. later we eill leran hos to do it.
+
+we need to do it to prepare any commit and other function that we can use in git.
