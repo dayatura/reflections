@@ -1,6 +1,10 @@
-what happen when you initialize a repository?why do you need to do it?
+# what happen when you initialize a repository?why do you need to do it?
 
 when you init a repo, there will be a folder called .git
 this folde is hidden. but you can find it out by run ls -a command in bash. this isn't mean you have any commit yet. later we eill leran hos to do it.
 
 we need to do it to prepare any commit and other function that we can use in git.
+
+# How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area isan area that contain any files that want to be tracked. if we dont make any add to this area, there is no change that will be rocorded.
